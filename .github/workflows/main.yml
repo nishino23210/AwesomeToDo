@@ -2,7 +2,7 @@ name: API Test
 on:
  push:
   branches:
-  - main
+  - main_jyanaiyo
  pull_request:
 jobs:
   test:
